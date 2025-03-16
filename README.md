@@ -1,5 +1,4 @@
-# Omnifood - AI-Powered Meal Subscription Service
-
+# Omnifood
 Omnifood is a smart food subscription service that delivers healthy, organic, and personalized meals straight to your door. With a focus on consumer well-being, we provide tailored meal plans created by our AI, taking into account your dietary preferences and nutritional needs. Choose from a variety of diets and enjoy hassle-free, delicious meals every day!
 
 This project showcases a static web page built with HTML and CSS, demonstrating responsive design, clean UI, and optimized layout.
